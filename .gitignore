@@ -1,0 +1,14 @@
+# Security: Never commit credentials
+config.php
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Settings (Optional, keeps your repo clean)
+.vscode/
+.idea/
+
+# Dependencies (If you add Composer later)
+vendor/
